@@ -1,1 +1,1 @@
-stuff
+speech to text -> translate -> text to speech
